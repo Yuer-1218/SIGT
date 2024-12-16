@@ -1,8 +1,4 @@
 # SIGT (Semantic Image Generation Tech)
-New form for translate the picture
+New form for translate the Image
 
-Advantage: LPIPS IOU FID
-
-Target: Infocom Poster 
-
-Code Release: After Accept
+Some mathematical proof and Demo is in Proof.pdf
